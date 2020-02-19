@@ -1,7 +1,7 @@
 # A-importancia-da-volatilidade
 <p>Projeto inspirado no vídeo do Leandro Guerra sobre a importância da volatilidade. Segue o link para o vídeo:
 <link>https://www.youtube.com/watch?v=gZkH6m_P0-4&t=612s</link> </p>
-<p>O dataset que resolvi usar é uma base que consegui na ActivTrades, que vai de: 
+<p>O dataset que resolvi usar é uma base que consegui na ActivTrades capturada pelo MetaTrader5, que vai de: 
 02/01/2005 até 17/02/2020 do ativo EURUSD, gráfico diário. </p>
 <p>No vídeo o Leandro separa a base de treinamento de: 22/09/2009 até 31/12/2012, dando un tatal de 854 dias. 
 Eu separei a base de treinamento de: 02/01/2005 até 31/12/2010, dando um total de 1867 dias.</p>
